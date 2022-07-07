@@ -1,0 +1,3 @@
+[submodule "first_react_app"]
+	path = first_react_app
+	url = ./first_react_app
