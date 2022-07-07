@@ -1,3 +1,6 @@
 [submodule "first_react_app"]
 	path = first_react_app
 	url = ./first_react_app
+[submodule "first-react-app"]
+	path = first-react-app
+	url = https://github.com/amaan2398/first-react-app
